@@ -1,5 +1,6 @@
-## Este projeto é uma solução para o AWS Challange para DevSecOps
-[Link do repo do desafio ](http://exemplo.com/)
+## Este projeto é uma solução para o AWS Challenger para DevSecOps
+## 
+#### thiagodons@gmail.com
 
 #### Este projeto tem como objetivo: 
 - Utilizar as ferramentas Terraform, Ansible para providenciar uma infrestrutura como código (IaC) na cloud AWS.
